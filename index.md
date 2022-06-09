@@ -22,7 +22,9 @@
       
         <p><b>Como é cobrado esse tipo de serviço?</b></p>
   
-  <p><b>Esse tipo de serviço normalmente é cobrado por mensalidade tambem é levado em conta o tanto de serviço que o usuário irá necessitar, por exemplo: se for necessário maior armazenamento de dados (HD) isso irá entrar em consideração na hora de cobrar a valor da mensalidade, uma maior quantidade de requisições, grandes volumes de dados sendo realocados em locais diferentes, tudo isso pode entrar na conta na hora da cobrança.</b></p>
+  <p><b>Esse tipo de serviço normalmente é cobrado por mensalidade tambem é levado em conta o tanto de serviço que o usuário irá necessitar, por exemplo: </b></p> 
+  
+  <p><b>Se for necessário maior armazenamento de dados (HD) isso irá entrar em consideração na hora de cobrar a valor da mensalidade, uma maior quantidade de requisições, grandes volumes de dados sendo realocados em locais diferentes, tudo isso pode entrar na conta na hora da cobrança.</b></p>
   
   <p><b>Alguns exemplos de serviços desse tipo fornecidos por empresas do ramo:</b></p>
   
