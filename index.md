@@ -28,11 +28,10 @@
   
   <p><b>Alguns exemplos de serviços desse tipo fornecidos por empresas do ramo:</b></p>
   
-  <p><b>* 1</b></p>
-  <p><b>* 2</b></p>
-  <p><b>* 3</b></p>
-  <p><b>* 4</b></p>
-  <p><b>* 5</b></p>
+  <p><b>* AWS (Amazon)</b></p>
+  <p><b>* Microsoft Azure (Microsoft)</b></p>
+  <p><b>* Google Cloud Platform (Google)</b></p>
+  <p><b>* Amazon EC2 (Amazon)</b></p>
 
 
       
